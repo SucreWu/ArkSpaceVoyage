@@ -1,0 +1,9 @@
+舰内及航行区域美术署名
+
+本作在 Unity 中按米搭建舱体、穿梭机、设备、灯光和飞行区域。航线、天体大小和相对距离为漫游演示缩放。比邻星行星外观为美术想象。星图、恒星和月面均使用三维几何显示。
+
+地球、月球、木星、土星、土星环、恒星与银河纹理来自 Solar System Scope / INOVE。许可 CC BY 4.0。本作从本地存档重新编码为 JPEG / PNG，将地球云层合成到底色，调整球体朝向、部分色调和照明。原作 https://www.solarsystemscope.com/textures/ 。许可 https://creativecommons.org/licenses/by/4.0/ 。
+
+木卫一、木卫二影像来自 USGS、JPL 和 Caltech，通过 NASA 3D Resources 获取。本作保留原图颜色并转为 JPEG。https://science.nasa.gov/3d-resources/jupiter-io-b/ ，https://science.nasa.gov/3d-resources/jupiter-europa/ 。
+
+树冠与树干来自本地项目的公园树原创几何，转为单独的 Unity OBJ，树叶和树皮使用其配套材质。休眠乘员与护理员来自《长昼航线》项目 ArchiveFigures 原创网格及配色；甲板、舱壁、检修外壳、驾驶仪表、湿石和木材使用项目现有材质。航图与示意岩石行星使用项目原创 ArrivalChart 和 ProximaTerrain。机械臂、净水叶轮和水纹由本作在 Unity 中生成并驱动。

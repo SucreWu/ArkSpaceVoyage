@@ -1,0 +1,50 @@
+[
+  {
+    "source_page": "https://esahubble.org/images/heic2501a/",
+    "download_url": "https://cdn.esahubble.org/archives/images/publicationjpg/heic2501a.jpg",
+    "observed_master": {
+      "file": "m31-master.jpg",
+      "width": 4000,
+      "height": 935,
+      "format": "JPEG",
+      "mode": "RGB",
+      "bytes": 1188951,
+      "sha256": "35199988fe9ccb791d20a6e8274c1ebbbed5e87130cba057c61872ae701e4db6"
+    },
+    "unity_copy": {
+      "file": "m31_hubble_observation.jpg",
+      "width": 4000,
+      "height": 935,
+      "format": "JPEG",
+      "mode": "RGB",
+      "bytes": 1337868,
+      "sha256": "9ea6bb92775d9db5c694a90315ce8d0d589d48b8b4babc6a9ffd5e94eab7c1eb"
+    },
+    "input_embedded_icc": true,
+    "changes": "Resized, JPEG re-encoded; output RGB sRGB intent."
+  },
+  {
+    "source_page": "https://esawebb.org/images/weic2603a/",
+    "download_url": "https://cdn.esawebb.org/archives/images/large/weic2603a.jpg",
+    "observed_master": {
+      "file": "momz14-master.jpg",
+      "width": 24567,
+      "height": 10239,
+      "format": "JPEG",
+      "mode": "RGB",
+      "bytes": 29063369,
+      "sha256": "3dcd351546e2b1edd4ce0f6f30055439d57985bc7afb2658d2c5e3732a233b47"
+    },
+    "unity_copy": {
+      "file": "momz14_webb_observation.jpg",
+      "width": 8192,
+      "height": 3414,
+      "format": "JPEG",
+      "mode": "RGB",
+      "bytes": 4915631,
+      "sha256": "0d3fa464fcfe48a699a2d52f26f421385584a0e5130806e4aa58a93e575e1202"
+    },
+    "input_embedded_icc": true,
+    "changes": "Resized, JPEG re-encoded; output RGB sRGB intent."
+  }
+]

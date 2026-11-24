@@ -1,0 +1,30 @@
+[
+  {
+    "id": "m31",
+    "group": "extragalactic",
+    "mode": "observation2D",
+    "resource": "Districts/m31_hubble_observation",
+    "displayName": "仙女座星系",
+    "date": "2025-01-16",
+    "distanceLabel": "距地球约 250 万光年",
+    "credit": "NASA, ESA, B. Williams (University of Washington)",
+    "attributionURL": "https://esahubble.org/images/heic2501a/",
+    "license": "CC BY 4.0"
+  },
+  {
+    "id": "momz14",
+    "group": "extragalactic",
+    "mode": "observation2D",
+    "resource": "Districts/momz14_webb_observation",
+    "displayName": "MoM-z14 · 早期宇宙",
+    "date": "2026-01-28",
+    "redshift": 14.44,
+    "redshiftUncertainty": 0.02,
+    "lookbackYears": 13500000000,
+    "yearsAfterBigBang": 280000000,
+    "distanceLabel": "回望约 135 亿年；不是今天的距离",
+    "credit": "NASA, ESA, CSA, STScI, R. Naidu (MIT), Image Processing: J. DePasquale (STScI)",
+    "attributionURL": "https://esawebb.org/images/weic2603a/",
+    "license": "CC BY 4.0"
+  }
+]

@@ -1,0 +1,13 @@
+住宅街巷与公共生活区美术来源
+
+阿禾基于 pixiv VRoid Project 的 Sendagaya Shino，街坊基于 Sakurada Fumiriya。原 VRM 的 licenseName 均为 CC0。此工程采用《长昼航线》已保存的原生 Unity FBX、原骨架与 Legacy AnimationClip、衣料图集，纸星、指间定位与交互由本工程 C# 创建。
+https://vroid.pixiv.help/hc/en-us/articles/360013482714-Sendagaya-Shino
+https://vroid.pixiv.help/hc/en-us/articles/360014788554-Sakurada-Fumiriya
+https://creativecommons.org/publicdomain/zero/1.0/
+
+门廊、室内器物和树木来自项目原场景网格。门廊灰泥使用 Rob Tuytel 的 White Plaster Rough 01，室内部分器物使用 Kenney Furniture Kit 与 Food Kit，原素材以 CC0 发布。
+https://polyhaven.com/a/white_plaster_rough_01
+https://opengameart.org/content/furniture-kit
+https://opengameart.org/content/food-kit
+
+童车、长椅、兔偶、晾衣、庭院栏杆、远桥、草坪和环形住房沿用本项目已制作的三维美术。树冠细叶、绣球花、各层住家百叶与窗帘、石板路、教室、课桌椅、粉笔星图、食堂、杯盘水果及天文望远镜为 Unity 版整理或新建的实体几何。Resources 中的网格缓冲保存顶点、法线、纹理坐标、顶点色和三角形，在 Unity 中实例化为 MeshFilter 与 MeshRenderer。
